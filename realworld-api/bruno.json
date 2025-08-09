@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "realworld-api",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
